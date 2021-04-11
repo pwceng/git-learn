@@ -11,5 +11,7 @@ public class GitStudy {
 
         System.out.println("master 01");
 
+        System.out.println("master 02");
+
     }
 }
